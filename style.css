@@ -259,4 +259,9 @@ p:first-line{
     .lista-diferenciales, .imagen-diferenciales{
         width: 100%;
     }
+
+    .videobox{
+        width: auto;
+        margin: 1em auto;
+    }
 }
